@@ -1,9 +1,9 @@
 const add = function(a, b) {
-  return result = a + b;
+  return a + b;
 };
 
 const subtract = function(a, b) {
-	return result = a - b;
+	return a - b;
 };
 
 const sum = function(array) {
@@ -15,7 +15,7 @@ const multiply = function(array) {
 };
 
 const power = function(a, b) {
-	return result = a ** b;
+	return a ** b;
 };
 
 const factorial = function(a) {
